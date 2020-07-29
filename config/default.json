@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Vic:Vic123@health.pizco.mongodb.net/<devconnector>?retryWrites=true&w=majority",
+  "mongoURI": "User MongoDB",
   "jwtSecret": "token"
 }
